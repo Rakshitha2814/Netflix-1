@@ -1,4 +1,4 @@
 x=5
-y="Rakshu"
+y="Rakshitha"
 print(type(x))
 print(type(y))
